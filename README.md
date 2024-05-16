@@ -69,8 +69,6 @@ Sigue estos pasos para configurar y ejecutar la API en tu entorno local:
    php -S localhost:8000 -t public
    ```
 
-7. **Acceso al Frontend:** Para acceder al frontend de la aplicación, por favor, sigue este enlace: [Repositorio Frontend libelula_soft_php](https://github.com/DannyelAlulema/Prueba_Tecnica-libelula_soft_php_FrontEnd)
-
 ¡Listo! Ahora deberías tener la API configurada y funcionando en tu entorno local.
 
 Claro, aquí está la parte adicional que menciona la guía de consumo del API:
@@ -83,7 +81,7 @@ Puedes importar este archivo en [Postman](https://www.postman.com/) para acceder
 
 1. Abre Postman.
 2. Haz clic en el botón "Import" en la parte superior izquierda de la ventana principal.
-3. Selecciona la opción "File" y luego busca y selecciona el archivo `Prueba Técnica API Reference.postman_collection` que se encuentra en el directorio raíz del repositorio.
+3. Selecciona la opción "File" y luego busca y selecciona el archivo `LibelulaSoft Back-End PHP.postman_collection` que se encuentra en el directorio raíz del repositorio.
 4. Una vez importada la colección, verás todos los endpoints disponibles junto con ejemplos de solicitudes que puedes usar como referencia.
 
 Esta guía de consumo te ayudará a comprender y utilizar eficazmente la API, lo que facilitará el desarrollo y las pruebas de tu aplicación.
